@@ -1,0 +1,298 @@
+.navbar {
+    background-color: #FFD700;
+}
+.search-bar {
+    width: 400px;
+}
+.main-banner {
+    background-color: #FF4500;
+    color: white;
+    padding: 20px;
+}
+.main-banner img {
+    width: 100%;
+}
+.promo-section img {
+    width: 100%;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.hot-banner {
+    background-color: #FFA500;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #f7f7f7;
+    padding: 30px 0;
+    color: #333;
+}
+
+.footer h5 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.social-icons img {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.subscribe-form {
+    display: flex;
+}
+
+.subscribe-form input {
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-right: none;
+    border-radius: 4px 0 0 4px;
+}
+
+.subscribe-form button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+
+.footer-bottom {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-bottom p {
+    margin: 0;
+}
+
+.ProductDetals input{
+    width: 45px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.buy-btn {
+    font-size: 0.8rem;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    background-color: #1d1d1d;
+    color: aliceblue;
+    padding: 10px 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.h1{
+    font-size: 2.5rem;  
+    font-weight: 700;
+}
+
+.h2{
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.h3{
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+.h4{
+    font-size: 1.1rem;
+    font-size: 600;
+}
+.h5{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #1d1d1d;
+}
+.h6{
+    color: #d8d8d8;
+}
+
+
+.nav-pills .nav-link.active{
+    background-color: black;
+}
+
+.member-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0;
+}
+.member {
+    width: 250px;
+}
+.member img {
+    width: 100%;
+    border: 2px solid #ddd;
+}
+.member h3 {
+    margin: 10px 0 5px;
+    color: #555;
+}
+.member p {
+    color: #888;
+}
+.btn-custom {
+    background-color: black; 
+    color: white; 
+    border-color: black;
+  }
+  
+  .btn-custom:hover {
+    background-color: #333; 
+    border-color: #333;
+  }.navbar {
+    background-color: #FFD700;
+}
+
+.navbar-brand img {
+    width: 120px;
+}
+
+.search-bar {
+    width: 400px; 
+}
+
+.main-banner {
+    background-color: #FF4500;
+    color: white;
+    padding: 20px;
+}
+
+.main-banner img,
+.promo-section img {
+    width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.hot-banner {
+    background-color: #FFA500;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #f7f7f7;
+    padding: 30px 0;
+    color: #333;
+}
+
+.footer h5 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.social-icons img {
+    width: 30px;
+    margin-right: 10px;
+}
+
+.subscribe-form {
+    display: flex;
+}
+
+.subscribe-form input {
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-right: none;
+    border-radius: 4px 0 0 4px;
+}
+
+.subscribe-form button {
+    padding: 8px 15px;
+    background-color: #ffc107;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+.subscribe-form button:hover {
+    background-color: #e0a800;
+}
+
+.footer-bottom {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-bottom p {
+    margin: 0;
+}
+
+.ProductDetails input {
+    width: 45px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.buy-btn {
+    font-size: 0.8rem;
+    font-weight: 600;
+    background-color: #1d1d1d;
+    color: aliceblue;
+    padding: 10px 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.h1 {
+    font-size: 2.5rem;  
+    font-weight: 700;
+}
+
+.h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.h3 {
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+
+.h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.h5 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #1d1d1d;
+}
+
+.h6 {
+    color: #d8d8d8;
+}
+
+.btn-custom {
+    background-color: black; 
+    color: white; 
+    border-color: black;
+}
+
+.btn-custom:hover {
+    background-color: #333; 
+    border-color: #333;
+}
